@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.main-heading {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.span {
+  font-family: 'Roboto';
+  font-size: 29px;
+  color: #171f46;
+}
+.para{
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.button-container{
+  background-color: #0b69ff;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ffffffff;
+  border-radius: 8px;
+  border-width: 0px;
+  font-size: 17px;
+}
